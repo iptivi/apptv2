@@ -200,18 +200,34 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1622477194
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
 http://live-sg.cvacetv.ga:8080/stream/channelid/573502383
 
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport Premier League
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",Sky Sport Premier League
 http://live-sg.cvacetv.ga:8080/stream/channelid/597963047
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport Top Event
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",Sky Sport Top Event
 http://live-sg.cvacetv.ga:8080/stream/channelid/387407908
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport Bundesliga
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",Sky Sport Bundesliga
 http://live-sg.cvacetv.ga:8080/stream/channelid/1228137804
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",Sky Sport F1
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",Sky Sport F1
 http://live-sg.cvacetv.ga:8080/stream/channelid/63178722
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",DAZN 1
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",DAZN 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/212745122
-#EXTINF:-1 group-title="➡️ SKY & DAZN - ĐỨC",DAZN 2
+#EXTINF:-1 group-title="➡️ SKY SPORTS & DAZN",DAZN 2
 http://live-sg.cvacetv.ga:8080/stream/channelid/330960754
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS NEWS" tvg-logo="" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS NEWS
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118694
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-mix-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS MIX
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118731
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT EXTRA 5" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/bt-sport-extra-5-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: BT SPORT EXTRA 5
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118732
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS CRICKET
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118733
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-f1-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS F1
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118734
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-arena-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS ARENA
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118735
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS MAIN EVENT
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118738
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF" tvg-logo="https://xplanetiptv.us/Logotv/countries/united-kingdom/sky-sports-golf-uk.png" group-title="➡️ SKY SPORTS & DAZN",UK: SKY SPORTS GOLF
+http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118739
 
 #EXTINF:-1 group-title="➡️ SETANTA SPORTS",Setanta Sports 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/1487908107
