@@ -59,25 +59,7 @@ http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90168
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90169
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT HD 7" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORT HD 7
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/90170
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 1 SD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 1 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101957
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 2 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 2 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101940
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Premium 3 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS3_PREMIUM_Digital_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS Premium 3 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101941
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS1_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 1 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101933
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS2_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 2 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101934
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS3_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 3 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101935
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS4_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 4 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101936
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS5_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 5 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101937
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS6_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 6 SD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101938
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 SD" tvg-logo="https://raw.githubusercontent.com/Winges4k/logos/main/beIN/beIN_SPORTS7_DIGITAL_Mono.png" group-title="➡️ BEIN SPORTS",beIN SPORTS 7 SD
+
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101939
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS English 1 HD" tvg-logo="" group-title="➡️ BEIN SPORTS",beIN SPORTS English 1 HD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/101944
@@ -257,13 +239,13 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/215681414
 http://live-sg.cvacetv.ga:8080/stream/channelid/206227262
 
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 1
-http://live-sg.cvacetv.ga:8080/stream/channelid/1164104878
+http://live-sg.cvacetv.ga:8080/stream/channelid/299897060
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 2
-http://live-sg.cvacetv.ga:8080/stream/channelid/363553794
+http://live-sg.cvacetv.ga:8080/stream/channelid/1078788079
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 3
-http://live-sg.cvacetv.ga:8080/stream/channelid/1916682652
+http://live-sg.cvacetv.ga:8080/stream/channelid/1450997750
 #EXTINF:-1 group-title="➡️ ELEVEN SPORT - BA LAN",Eleven Sports 4
-http://live-sg.cvacetv.ga:8080/stream/channelid/1997102389
+http://live-sg.cvacetv.ga:8080/stream/channelid/2075446000
 
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Sport 1
 http://live-sg.cvacetv.ga:8080/stream/channelid/667827158
