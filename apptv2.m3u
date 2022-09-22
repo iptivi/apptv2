@@ -149,8 +149,6 @@ http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118350
 #EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS MAX 9 SD" tvg-logo="" group-title="➡️ FRANCE TV",FR: BEIN SPORTS MAX 9 SD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/118351
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS 4 HD
-http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97931
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 HD" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORT 1 HD
 http://line.365tv.xyz:8060/k-online_panelssfdser54/VMyLNz2dBa/97929
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HD+" tvg-logo="" group-title="➡️ TURKISH TV",TR: beIN SPORTS HD+
@@ -214,7 +212,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/1187390163
 http://live-sg.cvacetv.ga:8080/stream/channelid/1139937268
 #EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Premium
 http://live-sg.cvacetv.ga:8080/stream/channelid/1688052141
-#EXTINF:-1 group-title="CANAL SPORT - BA LAN",Canal+ Family
+#EXTINF:-1 group-title="➡️ CANAL SPORT - BA LAN",Canal+ Family
 http://live-sg.cvacetv.ga:8080/stream/channelid/1947371474
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport Premium 1
 http://live-vn.cvacetv.ga:8080/PolsatPre1
@@ -228,7 +226,7 @@ http://live-vn.cvacetv.ga:8080/PPV4
 http://live-vn.cvacetv.ga:8080/PPV5
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport Premium 6
 http://live-vn.cvacetv.ga:8080/PPV6
-#EXTINF:-1 group-title="POLSAT SPORT - BA LAN",Polsat Sport
+#EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport
 http://live-sg.cvacetv.ga:8080/stream/channelid/139858583
 #EXTINF:-1 group-title="➡️ POLSAT SPORT - BA LAN",Polsat Sport Extra
 http://live-sg.cvacetv.ga:8080/stream/channelid/530202586
@@ -250,7 +248,7 @@ http://live-sg.cvacetv.ga:8080/stream/channelid/662775560
 http://live-sg.cvacetv.ga:8080/stream/channelid/1142956792
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Golf
 http://live-sg.cvacetv.ga:8080/stream/channelid/393249276
-#EXTINF:-1 group-title="ZIGGO SPORT - HÀ LAN",Ziggo Sport Docu
+#EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Docu
 http://live-sg.cvacetv.ga:8080/stream/channelid/426150340
 #EXTINF:-1 group-title="➡️ ZIGGO SPORT - HÀ LAN",Ziggo Sport Racing
 http://live-sg.cvacetv.ga:8080/stream/channelid/237052313
